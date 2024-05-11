@@ -1,6 +1,6 @@
 ### portfolioWallet: A Community Development Governance Game  
-A.2.7.0 v0.02 Investment Memo Abstract. 
-2024.04.07.TUE
+A.2.7.0 v0.02 Investment Memo Abstract  
+2024.04.10.FRI
 
 ## Purpose
 `What do you do?`  
