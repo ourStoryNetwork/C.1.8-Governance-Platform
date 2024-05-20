@@ -31,4 +31,7 @@ The absense of seasoned executives in critical positions create serious risks to
 Each of these roles is critical for different aspects of the project's success. The absence of seasoned leaders in these positions poses significant risks to growth, operational efficiency, and community engagement. Addressing these gaps will be essential for securing funding, executing the project effectively, and achieving long-term sustainability and impact.
 
 ### Resource(s): 
+- Journal Entry:
+  - Page 00: https://drive.google.com/file/d/14SU46G1KwsLzY4fWu5dzmLBzgU9orrFB/view?usp=share_link
+  - Page 01: https://drive.google.com/file/d/1tf_bte_AhanEc5ufobsiZ4eVZG1N8Gv3/view?usp=share_link
 - ChatGPT to generate draft responses: https://chatgpt.com/c/5c44aa79-93ae-49e3-84a9-2c1b3a3f5aff
